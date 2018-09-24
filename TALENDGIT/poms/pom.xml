@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/talendgittest_0.1</module>
+    <module>jobs/process/copy_of_talendgittest_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TALENDGIT</talend.project.name>
